@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/nakharin/Desktop/BitmapTest/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/nakharin/Desktop/BitmapTest/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "/Users/nakharin/Desktop/BitmapTest/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "58",
+                        "endOffsets": "73"
+                    },
+                    "to": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "902",
+                        "endColumns": "57",
+                        "endOffsets": "955"
+                    }
+                },
+                {
+                    "source": "/Users/nakharin/Desktop/BitmapTest/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,2,12,10,6,13,15,14,5,8,9,4,11,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "66,17,577,480,225,627,707,666,177,347,425,119,537,283",
+                        "endColumns": "52,48,49,56,57,38,42,40,47,77,54,57,39,63",
+                        "endOffsets": "114,61,622,532,278,661,745,702,220,420,475,172,572,342"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,222,271,321,378,436,475,518,559,607,685,740,798,838",
+                        "endColumns": "52,48,49,56,57,38,42,40,47,77,54,57,39,63",
+                        "endOffsets": "217,266,316,373,431,470,513,554,602,680,735,793,833,897"
+                    }
+                }
+            ]
+        }
+    ]
+}

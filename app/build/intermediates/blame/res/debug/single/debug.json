@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/nakharin/Desktop/BitmapTest/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/nakharin/Desktop/BitmapTest/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nakharin/Desktop/BitmapTest/app/build/intermediates/res/merged/debug/raw_project_resource3.png.flat",
+        "source": "/Users/nakharin/Desktop/BitmapTest/app/src/main/res/raw/project_resource3.png"
+    },
+    {
+        "merged": "/Users/nakharin/Desktop/BitmapTest/app/build/intermediates/res/merged/debug/raw_project_resource1.png.flat",
+        "source": "/Users/nakharin/Desktop/BitmapTest/app/src/main/res/raw/project_resource1.png"
+    },
+    {
+        "merged": "/Users/nakharin/Desktop/BitmapTest/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/nakharin/Desktop/BitmapTest/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/nakharin/Desktop/BitmapTest/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/nakharin/Desktop/BitmapTest/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nakharin/Desktop/BitmapTest/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/nakharin/Desktop/BitmapTest/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nakharin/Desktop/BitmapTest/app/build/intermediates/res/merged/debug/raw_project_resource2.png.flat",
+        "source": "/Users/nakharin/Desktop/BitmapTest/app/src/main/res/raw/project_resource2.png"
+    },
+    {
+        "merged": "/Users/nakharin/Desktop/BitmapTest/app/build/intermediates/res/merged/debug/raw_bixolon_logo_black_500.png.flat",
+        "source": "/Users/nakharin/Desktop/BitmapTest/app/src/main/res/raw/bixolon_logo_black_500.png"
+    },
+    {
+        "merged": "/Users/nakharin/Desktop/BitmapTest/app/build/intermediates/res/merged/debug/menu_menu_main.xml.flat",
+        "source": "/Users/nakharin/Desktop/BitmapTest/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/nakharin/Desktop/BitmapTest/app/build/intermediates/res/merged/debug/raw_bixolon_logo_color_4502.jpg.flat",
+        "source": "/Users/nakharin/Desktop/BitmapTest/app/src/main/res/raw/bixolon_logo_color_4502.jpg"
+    },
+    {
+        "merged": "/Users/nakharin/Desktop/BitmapTest/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/nakharin/Desktop/BitmapTest/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]
